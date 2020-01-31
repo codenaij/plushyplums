@@ -41,7 +41,7 @@ img {
 }
 
 #showcase {
-  background: #333 url("../img/bg.png") no-repeat center center/cover;
+  background: #333 url("/img/bg.png") no-repeat center center/cover;
   height: 100vh;
   color: #fff;
 }
