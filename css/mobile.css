@@ -1,0 +1,19 @@
+@media (max-width: 500px) {
+  a {
+    padding: 1rem 1.3rem;
+  }
+
+  img {
+    height: 6rem;
+  }
+
+  .lead {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .leads {
+    font-size: 1.8rem;
+    margin-bottom: 0.6rem;
+  }
+}
